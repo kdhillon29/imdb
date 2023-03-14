@@ -2,7 +2,7 @@
 import { Inter } from 'next/font/google'
 
 const inter = Inter({ subsets: ['latin'] })
-
+//comment page2 
 export default function Home() {
   return (
     <main className="">
